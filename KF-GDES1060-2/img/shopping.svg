@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="208" height="298" viewBox="0 0 208 298">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1b998b;
+      }
+
+      .cls-2 {
+        fill: rgba(0,0,0,0.6);
+      }
+
+      .cls-3 {
+        font-size: 48px;
+        font-family: Andada Pro;
+        font-weight: 600;
+      }
+    </style>
+  </defs>
+  <g id="Group_14" data-name="Group 14" transform="translate(-1419 -4030)">
+    <ellipse id="Ellipse_27" data-name="Ellipse 27" class="cls-1" cx="82.5" cy="74" rx="82.5" ry="74" transform="translate(1440 4030)"/>
+    <path id="tag" class="cls-2" d="M0,43.569V8.3A8.3,8.3,0,0,1,8.3,0H43.569a8.3,8.3,0,0,1,5.865,2.43L86.051,39.046a8.3,8.3,0,0,1,0,11.731L50.777,86.051a8.3,8.3,0,0,1-11.731,0L2.43,49.435A8.3,8.3,0,0,1,0,43.569ZM19.355,11.06a8.3,8.3,0,1,0,8.3,8.3A8.295,8.295,0,0,0,19.355,11.06Z" transform="translate(1478.26 4066.439)"/>
+    <text id="Shopping_" data-name="Shopping
+" class="cls-3" transform="translate(1523 4261)"><tspan x="-103.248" y="0">shopping</tspan><tspan x="0" y="56"></tspan></text>
+  </g>
+</svg>

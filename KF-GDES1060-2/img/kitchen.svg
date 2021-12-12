@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="186" height="346" viewBox="0 0 186 346">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1b998b;
+      }
+
+      .cls-2 {
+        fill: rgba(0,0,0,0.6);
+      }
+
+      .cls-3 {
+        font-size: 48px;
+        font-family: Andada Pro;
+        font-weight: 600;
+      }
+    </style>
+  </defs>
+  <g id="Group_18" data-name="Group 18" transform="translate(-498 -4030)">
+    <ellipse id="Ellipse_23" data-name="Ellipse 23" class="cls-1" cx="82.5" cy="74" rx="82.5" ry="74" transform="translate(508 4030)"/>
+    <path id="coffee" class="cls-2" d="M31.819,99.389H63.684c8.8,0,15.933-8.232,15.933-18.379h5.311c11.717,0,21.243-10.989,21.243-24.505S96.645,32,84.927,32H19.869c-2.207,0-3.983,2.048-3.983,4.595V81.01C15.886,91.157,23.022,99.389,31.819,99.389ZM84.927,44.253c5.859,0,10.622,5.495,10.622,12.253S90.786,68.758,84.927,68.758H79.617V44.253Zm7.917,73.515H7.969c-7.9,0-10.124-12.253-5.975-12.253H98.8c4.149,0,1.958,12.253-5.958,12.253Z" transform="translate(537.442 4029.116)"/>
+    <text id="in-room_Kitchen_" data-name="in-room
+Kitchen
+" class="cls-3" transform="translate(591 4253)"><tspan x="-92.352" y="0">in-room</tspan><tspan x="-86.616" y="56">kitchen</tspan><tspan x="0" y="112"></tspan></text>
+  </g>
+</svg>

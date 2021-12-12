@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="165" height="346" viewBox="0 0 165 346">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1b998b;
+      }
+
+      .cls-2 {
+        fill: rgba(0,0,0,0.6);
+      }
+
+      .cls-3 {
+        font-size: 48px;
+        font-family: Andada Pro;
+        font-weight: 600;
+      }
+    </style>
+  </defs>
+  <g id="Group_19" data-name="Group 19" transform="translate(-276 -4030)">
+    <ellipse id="Ellipse_22" data-name="Ellipse 22" class="cls-1" cx="82.5" cy="74" rx="82.5" ry="74" transform="translate(276 4030)"/>
+    <path id="phone" class="cls-2" d="M88.565,4.407,69.9.1a4.336,4.336,0,0,0-4.937,2.5L56.342,22.7a4.3,4.3,0,0,0,1.239,5.026l10.879,8.9A66.531,66.531,0,0,1,36.649,68.441l-8.9-10.879a4.3,4.3,0,0,0-5.026-1.239L2.612,64.941A4.36,4.36,0,0,0,.1,69.9l4.308,18.67a4.307,4.307,0,0,0,4.2,3.339,83.287,83.287,0,0,0,83.3-83.3A4.3,4.3,0,0,0,88.565,4.407Z" transform="translate(312.553 4062.418)"/>
+    <text id="Room_Service_" data-name="Room 
+Service
+" class="cls-3" transform="translate(359 4253)"><tspan x="-65.328" y="0">room </tspan><tspan x="-80.16" y="56">service</tspan><tspan x="0" y="112"></tspan></text>
+  </g>
+</svg>

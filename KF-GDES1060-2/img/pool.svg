@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="165" height="298" viewBox="0 0 165 298">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1b998b;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: rgba(0,0,0,0.6);
+        stroke-width: 7px;
+      }
+
+      .cls-3 {
+        stroke: rgba(33,33,33,0.6);
+        stroke-width: 6px;
+      }
+
+      .cls-4 {
+        font-size: 48px;
+        font-family: Andada Pro;
+        font-weight: 600;
+      }
+    </style>
+  </defs>
+  <g id="Group_17" data-name="Group 17" transform="translate(-740 -4030)">
+    <ellipse id="Ellipse_24" data-name="Ellipse 24" class="cls-1" cx="82.5" cy="74" rx="82.5" ry="74" transform="translate(740 4030)"/>
+    <g id="Group_5" data-name="Group 5" transform="translate(0 659)">
+      <line id="Line_14" data-name="Line 14" class="cls-2" x1="36" y2="59" transform="translate(807.5 3388.746)"/>
+      <line id="Line_15" data-name="Line 15" class="cls-2" x1="37" y2="68" transform="translate(843.5 3397.746)"/>
+      <line id="Line_16" data-name="Line 16" class="cls-2" x2="36" y2="13" transform="translate(833.5 3405.746)"/>
+      <line id="Line_17" data-name="Line 17" class="cls-2" x2="38" y2="16" transform="translate(816.5 3431.746)"/>
+    </g>
+    <path id="Path_3" data-name="Path 3" class="cls-3" d="M8788.705,4213.228c6.51,22.782,24.679,1.9,34.715,13.019s-5.153,25.222,5.426,31.46,24.409-12.2,36.884-6.508,13.018,29.29,13.018,29.29" transform="translate(-8008.016 -131.488)"/>
+    <text id="Pool_" data-name="Pool
+" class="cls-4" transform="translate(819 4261)"><tspan x="-48.504" y="0">pool</tspan><tspan x="0" y="56"></tspan></text>
+  </g>
+</svg>

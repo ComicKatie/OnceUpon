@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="182" height="346" viewBox="0 0 182 346">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1b998b;
+      }
+
+      .cls-2 {
+        fill: rgba(0,0,0,0.6);
+      }
+
+      .cls-3 {
+        font-size: 48px;
+        font-family: Andada Pro;
+        font-weight: 600;
+      }
+    </style>
+  </defs>
+  <g id="Group_16" data-name="Group 16" transform="translate(-970 -4030)">
+    <ellipse id="Ellipse_25" data-name="Ellipse 25" class="cls-1" cx="82.5" cy="74" rx="82.5" ry="74" transform="translate(972 4030)"/>
+    <path id="shield-alt" class="cls-2" d="M114.547,18.329l-42-17.5a10.533,10.533,0,0,0-8.072,0l-42,17.5A10.489,10.489,0,0,0,16,28.019c0,43.422,25.047,73.434,48.453,83.191a10.533,10.533,0,0,0,8.072,0C91.272,103.4,121,76.429,121,28.019A10.5,10.5,0,0,0,114.547,18.329ZM68.522,97.648,68.5,14.3l38.478,16.034c-.722,33.119-17.959,57.116-38.456,67.309Z" transform="translate(985.374 4047.98)"/>
+    <text id="Themed_Rooms_" data-name="Themed Rooms
+" class="cls-3" transform="translate(1061 4253)"><tspan x="-90.024" y="0">themed </tspan><tspan x="-71.088" y="56">rooms</tspan><tspan x="0" y="112"></tspan></text>
+  </g>
+</svg>
